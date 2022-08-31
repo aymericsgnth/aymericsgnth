@@ -1,4 +1,4 @@
-- 👋 Hi, call my aym ! :)
+- 👋 Hi, call me aym ! :)
 - 👀 I’m interested in prog, WEB >>>
 - 🌱 I’m currently learning  NodeJS
 - 💞️ I’m looking to collaborate on WEB projects
